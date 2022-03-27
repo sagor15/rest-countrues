@@ -1,0 +1,14 @@
+.country {
+  /* display: flex; */
+  /* grid-template-columns: repeat(3, 1fr); */
+  margin: 20px;
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+.country img {
+  width: 280px;
+  height: 200px;
+}
+
+ 
